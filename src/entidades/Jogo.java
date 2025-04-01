@@ -11,7 +11,7 @@ public class Jogo extends JFrame implements KeyListener
     ImageIcon mapaImg;
 
     private int pTamanho= 50;
-    private int pVelocidade = 6;
+    private int pVelocidade = 25;
 
     private int telaLargura = 1280;
     private int telaAltura = 720;
